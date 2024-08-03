@@ -2,3 +2,7 @@
 
 #env file
 .env
+GDPR_RAG/default.sqlite
+GDPR_RAG/lamaIndex_metadata_share.ipynb
+GDPR_RAG/Auto-merging-retrieval.ipynb
+GDPR_RAG/DocSummary.ipynb
