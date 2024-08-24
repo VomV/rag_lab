@@ -53,4 +53,3 @@ This is powered by the OpenAI GPT-4 model and Retrieval Augmented Generation, an
 
 - Create a new python env: 
 - If starting from the pdf file, run gdpr_split.py to generate article text files
-- 
