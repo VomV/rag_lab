@@ -1,5 +1,5 @@
 """
-This script reads the GDPR pdf and splits it into separate txt files for each Article in the pdf
+This script reads the GDPR pdf and splits it into separate txt files for each Article in the pdf..
 """
 
 import fitz  # PyMuPDF
